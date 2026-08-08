@@ -159,9 +159,10 @@ const suggestions = {
       },
       apresentacao: {
         titulo: "APRESENTAÇÃO DO CONSÓRCIO",
-        script: "Funciona assim, direto: você entra num grupo, paga uma parcela sem juros de banco — só a taxa de administração, que eu te mostro na ponta do lápis — e concorre todo mês à contemplação por sorteio ou lance. Com estratégia de lance, dá pra acelerar. No fim das contas: mesmo crédito, custo total menor que o financiamento. Quer ver os números do seu caso?"
+        script: "Funciona assim, direto: você entra num grupo, paga uma parcela sem juros de banco — só a taxa de administração, que eu te mostro na ponta do lápis — e concorre todo mês à contemplação por sorteio ou lance. Com estratégia de lance, dá pra acelerar. No fim das contas: mesmo crédito, custo total menor que o financiamento. Quer ver os números do seu caso?",
+        gatilhos: "Economia comprovada, controle da decisão, comparação direta com o financiamento"
       },
-      cta: {
+      chamada: {
         titulo: "CHAMADA PARA AÇÃO",
         script: "A parcela cabe, o custo é menor e o grupo assembleia dia [data]. Vamos garantir sua cota agora? Só preciso do seu documento."
       },
@@ -361,9 +362,10 @@ const suggestions = {
       },
       apresentacao: {
         titulo: "APRESENTAÇÃO DO CONSÓRCIO",
-        script: "Deixa eu te contar como funciona, do jeito simples: é como uma vaquinha organizada e fiscalizada pelo Banco Central. Todo mundo do grupo paga sua parcela, e todo mês tem gente sendo contemplada — por sorteio ou lance. A [cliente exemplo] começou em janeiro e em maio me mandou foto com a chave. Sua parcela cabe no bolso, sem juros de banco, e o sonho sai do papel. Quer ver como ficaria o SEU plano?"
+        script: "Deixa eu te contar como funciona, do jeito simples: é como uma vaquinha organizada e fiscalizada pelo Banco Central. Todo mundo do grupo paga sua parcela, e todo mês tem gente sendo contemplada — por sorteio ou lance. A [cliente exemplo] começou em janeiro e em maio me mandou foto com a chave. Sua parcela cabe no bolso, sem juros de banco, e o sonho sai do papel. Quer ver como ficaria o SEU plano?",
+        gatilhos: "História real de contemplação, visualização do sonho, plano personalizado"
       },
-      cta: {
+      chamada: {
         titulo: "CHAMADA PARA AÇÃO",
         script: "Vamos começar essa história hoje? Eu garanto sua cota, cuido de tudo pra você, e daqui a pouco quem vai estar contando a história de conquista pros outros é você."
       },
@@ -563,9 +565,10 @@ const suggestions = {
       },
       apresentacao: {
         titulo: "APRESENTAÇÃO DO CONSÓRCIO",
-        script: "Vou te explicar com calma, do jeito mais simples: o consórcio é um grupo de pessoas com o mesmo objetivo, administrado por uma empresa fiscalizada pelo Banco Central — igual banco, com regras e proteção. Você paga uma parcela fixa, que a gente escolhe junto pra caber no seu orçamento sem apertar. Todo mês tem contemplação, e quando chegar a sua vez, o crédito é seu. E o mais importante: eu te acompanho em cada etapa. Alguma parte que você quer que eu explique de novo?"
+        script: "Vou te explicar com calma, do jeito mais simples: o consórcio é um grupo de pessoas com o mesmo objetivo, administrado por uma empresa fiscalizada pelo Banco Central — igual banco, com regras e proteção. Você paga uma parcela fixa, que a gente escolhe junto pra caber no seu orçamento sem apertar. Todo mês tem contemplação, e quando chegar a sua vez, o crédito é seu. E o mais importante: eu te acompanho em cada etapa. Alguma parte que você quer que eu explique de novo?",
+        gatilhos: "Fiscalização do Banco Central, parcela confortável, acompanhamento em cada etapa"
       },
-      cta: {
+      chamada: {
         titulo: "CHAMADA PARA AÇÃO",
         script: "Que tal darmos só o primeiro passo hoje? Garantimos sua cota, sem pressa, e eu te acompanho em tudo daqui pra frente. Se em qualquer momento você tiver dúvida, me chama que eu resolvo com você."
       },
@@ -765,9 +768,10 @@ const suggestions = {
       },
       apresentacao: {
         titulo: "APRESENTAÇÃO DO CONSÓRCIO",
-        script: "Vou te apresentar em 4 pontos verificáveis: 1) Estrutura: grupo administrado por empresa autorizada e fiscalizada pelo Banco Central — consulta pública no site oficial. 2) Custo: parcela composta por fundo comum + taxa de administração + fundo de reserva, sem juros — te mostro o custo total do plano na tabela. 3) Contemplação: sorteio mensal e lances, com regras definidas em regulamento que você recebe por escrito. 4) Comparativo: custo total do consórcio contra o financiamento no mesmo crédito e prazo. Quer começar pela tabela ou pelo regulamento?"
+        script: "Vou te apresentar em 4 pontos verificáveis: 1) Estrutura: grupo administrado por empresa autorizada e fiscalizada pelo Banco Central — consulta pública no site oficial. 2) Custo: parcela composta por fundo comum + taxa de administração + fundo de reserva, sem juros — te mostro o custo total do plano na tabela. 3) Contemplação: sorteio mensal e lances, com regras definidas em regulamento que você recebe por escrito. 4) Comparativo: custo total do consórcio contra o financiamento no mesmo crédito e prazo. Quer começar pela tabela ou pelo regulamento?",
+        gatilhos: "Dados verificáveis, regulamento por escrito, comparativo técnico de custo total"
       },
-      cta: {
+      chamada: {
         titulo: "CHAMADA PARA AÇÃO",
         script: "Os dados estão completos e a comparação fecha a favor. Te envio o contrato e o regulamento agora pra sua conferência final. Estando tudo conforme analisamos, formalizamos hoje e sua cota entra na próxima assembleia."
       },
