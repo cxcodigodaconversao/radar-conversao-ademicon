@@ -53,8 +53,9 @@ const suggestions = {
         tipos: [
           "OBJETIVO: ele disse o bem e o prazo? (\'quero o apê até o ano que vem\')",
           "CAPACIDADE: ele falou o valor mensal com a boca dele? Se ainda não, pergunte: \'quanto por mês faz sentido pra você sem apertar?\'",
-          "CONFIANÇA: ele parou de comparar com o banco e começou a comparar CONDIÇÕES aqui dentro",
-          "⚠️ Faltou algum? Não oferte. Ele fecha rápido, mas cancela rápido também se não entendeu o custo total"
+          "CONFIANÇA: ele parou de comparar com o banco e começou a comparar CONDIÇÕES aqui dentro",,
+          "💬 PERGUNTAS QUE ACENDEM: Objetivo — \"Pra quando você quer esse bem na mão?\" · Capacidade — \"Quanto por mês cabe sem apertar?\" · Confiança — \"O que você precisa saber pra fechar com total segurança?\"",
+"⚠️ Faltou algum? Não oferte. Ele fecha rápido, mas cancela rápido também se não entendeu o custo total"
         ]
       },
       scripts_dm: {
@@ -255,8 +256,9 @@ const suggestions = {
         tipos: [
           "OBJETIVO: além do sonho, ele definiu o bem e o prazo concretos?",
           "CAPACIDADE: cuidado — ele diz sim pra qualquer valor na emoção. Pergunte: \'e essa parcela, cabe no seu mês tranquilo?\'",
-          "CONFIANÇA: ele já entendeu que contemplação não tem data garantida? (evita cancelamento depois)",
-          "⚠️ Faltou capacidade? É o perfil que mais cancela cota. Ancore na parcela confortável, não na maior possível"
+          "CONFIANÇA: ele já entendeu que contemplação não tem data garantida? (evita cancelamento depois)",,
+          "💬 PERGUNTAS QUE ACENDEM: Objetivo — \"Se desse tudo certo, você tava com a chave na mão quando?\" · Capacidade — \"E essa parcela, cabe no seu mês tranquilo?\" · Confiança — \"O que você precisa saber pra se sentir 100% segura(o) com essa decisão?\"",
+"⚠️ Faltou capacidade? É o perfil que mais cancela cota. Ancore na parcela confortável, não na maior possível"
         ]
       },
       scripts_dm: {
@@ -457,8 +459,9 @@ const suggestions = {
         tipos: [
           "OBJETIVO: ele conseguiu dizer o que quer, ou ainda está \'só pesquisando\'?",
           "CAPACIDADE: ele falou um valor que cabe COM folga? (ele nunca aperta o orçamento)",
-          "CONFIANÇA: as perguntas de medo já foram todas respondidas — atraso, desistência, fiscalização?",
-          "⚠️ Faltou confiança? Ofertar agora gera recuo. Resolva o medo primeiro, mesmo que leve mais um encontro"
+          "CONFIANÇA: as perguntas de medo já foram todas respondidas — atraso, desistência, fiscalização?",,
+          "💬 PERGUNTAS QUE ACENDEM: Objetivo — \"Como você imagina esse plano acontecendo?\" · Capacidade — \"Qual valor mensal fica confortável pra vocês, com folga?\" · Confiança — \"O que você precisa saber pra ficar totalmente tranquilo(a) com essa decisão?\"",
+"⚠️ Faltou confiança? Ofertar agora gera recuo. Resolva o medo primeiro, mesmo que leve mais um encontro"
         ]
       },
       scripts_dm: {
@@ -659,8 +662,9 @@ const suggestions = {
         tipos: [
           "OBJETIVO: ele definiu bem, valor de crédito e prazo com precisão?",
           "CAPACIDADE: ele já calculou o comprometimento de renda dele mesmo?",
-          "CONFIANÇA: ele viu o regulamento e a consulta da administradora no Banco Central?",
-          "⚠️ Faltou confiança? Ele não fecha por simpatia. Mande o documento e marque o retorno"
+          "CONFIANÇA: ele viu o regulamento e a consulta da administradora no Banco Central?",,
+          "💬 PERGUNTAS QUE ACENDEM: Objetivo — \"Qual crédito e qual prazo você definiu?\" · Capacidade — \"Qual comprometimento de renda você considera adequado?\" · Confiança — \"Que informação te faltaria pra decidir com total segurança?\"",
+"⚠️ Faltou confiança? Ele não fecha por simpatia. Mande o documento e marque o retorno"
         ]
       },
       scripts_dm: {
