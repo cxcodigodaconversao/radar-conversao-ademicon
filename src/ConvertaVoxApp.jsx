@@ -33,7 +33,7 @@ const suggestions = {
       ]
     },
     social_selling: {
-      titulo: "Fechamento — Timing e Micropactos",
+      titulo: "Fechamento — Timing e Sinais Verdes",
       objetivo: "fechar com o Dominante no momento em que ele sente que está no controle e fazendo o melhor negócio",
       caracteristicas: "Decide rápido, odeia sentir que está sendo empurrado, fecha quando enxerga vantagem",
       estrategia_aproximacao: {
@@ -48,14 +48,13 @@ const suggestions = {
         ]
       },
       conteudo_engajamento: {
-        titulo: "🤝 MICROPACTOS — OS PEQUENOS SIMS",
-        descricao: "Colecione pequenos acordos antes da oferta final. Com o Dominante, micropacto tem que ter lógica de ganho:",
+        titulo: "✅ OS 3 SINAIS VERDES — SÓ OFERTE COM OS TRÊS",
+        descricao: "Com o Dominante, o sinal verde aparece rápido — mas ele esconde a capacidade real pra negociar melhor. Confirme os 3 antes de ofertar:",
         tipos: [
-          "\"Se a parcela couber no valor que você me falou, faz sentido a gente avançar?\"",
-          "\"Se eu te mostrar que aqui você economiza em relação ao financiamento, a gente fecha hoje?\"",
-          "\"Posso te mostrar a estratégia de lance que contempla mais rápido?\"",
-          "\"Se o prazo bater com o seu plano, tem mais alguma coisa que te impede?\"",
-          "\"Fechando hoje, você já entra no próximo grupo. Faz sentido pra você?\""
+          "OBJETIVO: ele disse o bem e o prazo? (\'quero o apê até o ano que vem\')",
+          "CAPACIDADE: ele falou o valor mensal com a boca dele? Se ainda não, pergunte: \'quanto por mês faz sentido pra você sem apertar?\'",
+          "CONFIANÇA: ele parou de comparar com o banco e começou a comparar CONDIÇÕES aqui dentro",
+          "⚠️ Faltou algum? Não oferte. Ele fecha rápido, mas cancela rápido também se não entendeu o custo total"
         ]
       },
       scripts_dm: {
@@ -236,7 +235,7 @@ const suggestions = {
       ]
     },
     social_selling: {
-      titulo: "Fechamento — Timing e Micropactos",
+      titulo: "Fechamento — Timing e Sinais Verdes",
       objetivo: "fechar com o Influente no pico da emoção — ele decide quando está empolgado e se sentindo especial",
       caracteristicas: "Decide pela emoção, adia por distração, precisa de condução leve mas firme",
       estrategia_aproximacao: {
@@ -251,14 +250,13 @@ const suggestions = {
         ]
       },
       conteudo_engajamento: {
-        titulo: "🤝 MICROPACTOS — OS PEQUENOS SIMS",
-        descricao: "Com o Influente, os micropactos conectam o sonho com o passo prático:",
+        titulo: "✅ OS 3 SINAIS VERDES — SÓ OFERTE COM OS TRÊS",
+        descricao: "Com o Influente, o sonho aparece antes da capacidade — e é aí que o vendedor se ilude. Confirme os 3 antes de ofertar:",
         tipos: [
-          "\"Se a parcela couber no seu bolso, você toparia começar esse sonho hoje?\"",
-          "\"Imagina a cena da entrega da chave... se eu te mostrar o caminho até ela, você vem comigo?\"",
-          "\"Posso montar a simulação do SEU plano, do seu jeito?\"",
-          "\"Se sua esposa/seu marido amar a ideia, fechamos essa semana?\"",
-          "\"Você prefere realizar em 5 anos com folga ou acelerar com lance? Vamos escolher juntos?\""
+          "OBJETIVO: além do sonho, ele definiu o bem e o prazo concretos?",
+          "CAPACIDADE: cuidado — ele diz sim pra qualquer valor na emoção. Pergunte: \'e essa parcela, cabe no seu mês tranquilo?\'",
+          "CONFIANÇA: ele já entendeu que contemplação não tem data garantida? (evita cancelamento depois)",
+          "⚠️ Faltou capacidade? É o perfil que mais cancela cota. Ancore na parcela confortável, não na maior possível"
         ]
       },
       scripts_dm: {
@@ -439,7 +437,7 @@ const suggestions = {
       ]
     },
     social_selling: {
-      titulo: "Fechamento — Timing e Micropactos",
+      titulo: "Fechamento — Timing e Sinais Verdes",
       objetivo: "fechar com o Estável removendo o medo — ele decide quando se sente seguro e acompanhado",
       caracteristicas: "Decide devagar, odeia pressão, fecha quando confia no vendedor e no processo",
       estrategia_aproximacao: {
@@ -454,14 +452,13 @@ const suggestions = {
         ]
       },
       conteudo_engajamento: {
-        titulo: "🤝 MICROPACTOS — OS PEQUENOS SIMS",
-        descricao: "Com o Estável, os micropactos removem medo, um por vez:",
+        titulo: "✅ OS 3 SINAIS VERDES — SÓ OFERTE COM OS TRÊS",
+        descricao: "Com o Estável, a confiança é o sinal que demora — e sem ela não existe fechamento. Confirme os 3 antes de ofertar:",
         tipos: [
-          "\"Se eu te mostrar que a administradora é fiscalizada pelo Banco Central, fica mais tranquilo(a)?\"",
-          "\"Se a parcela ficar num valor que não aperta o orçamento, faz sentido pra você?\"",
-          "\"Posso te explicar com calma o que acontece em cada situação — atraso, desistência, contemplação?\"",
-          "\"Se sua família estiver de acordo, a gente dá o próximo passo juntos?\"",
-          "\"Você prefere que eu te acompanhe mês a mês depois de fechar? Porque é isso que eu faço.\""
+          "OBJETIVO: ele conseguiu dizer o que quer, ou ainda está \'só pesquisando\'?",
+          "CAPACIDADE: ele falou um valor que cabe COM folga? (ele nunca aperta o orçamento)",
+          "CONFIANÇA: as perguntas de medo já foram todas respondidas — atraso, desistência, fiscalização?",
+          "⚠️ Faltou confiança? Ofertar agora gera recuo. Resolva o medo primeiro, mesmo que leve mais um encontro"
         ]
       },
       scripts_dm: {
@@ -642,7 +639,7 @@ const suggestions = {
       ]
     },
     social_selling: {
-      titulo: "Fechamento — Timing e Micropactos",
+      titulo: "Fechamento — Timing e Sinais Verdes",
       objetivo: "fechar com o Conforme quando todas as dúvidas técnicas foram respondidas — ele fecha por conclusão lógica",
       caracteristicas: "Decide devagar e por análise, odeia pressão e exagero, fecha quando a conta fecha",
       estrategia_aproximacao: {
@@ -657,14 +654,13 @@ const suggestions = {
         ]
       },
       conteudo_engajamento: {
-        titulo: "🤝 MICROPACTOS — OS PEQUENOS SIMS",
-        descricao: "Com o Conforme, cada micropacto valida uma etapa da análise:",
+        titulo: "✅ OS 3 SINAIS VERDES — SÓ OFERTE COM OS TRÊS",
+        descricao: "Com o Conforme, objetivo e capacidade vêm fáceis — a confiança exige documento. Confirme os 3 antes de ofertar:",
         tipos: [
-          "\"Se os números da comparação com o financiamento fecharem, faz sentido avançarmos?\"",
-          "\"Posso te mandar o regulamento e a consulta da administradora no Banco Central pra você validar?\"",
-          "\"Se o custo total ficar abaixo do financiamento, esse critério está atendido pra você?\"",
-          "\"Alguma outra informação técnica falta pra sua análise ficar completa?\"",
-          "\"Se todas as suas perguntas forem respondidas com dados, a decisão sai essa semana?\""
+          "OBJETIVO: ele definiu bem, valor de crédito e prazo com precisão?",
+          "CAPACIDADE: ele já calculou o comprometimento de renda dele mesmo?",
+          "CONFIANÇA: ele viu o regulamento e a consulta da administradora no Banco Central?",
+          "⚠️ Faltou confiança? Ele não fecha por simpatia. Mande o documento e marque o retorno"
         ]
       },
       scripts_dm: {
